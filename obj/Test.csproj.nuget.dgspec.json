@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test\\Test.csproj": {}
+    "D:\\test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\Test\\Test.csproj": {
+    "D:\\test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\Test\\Test.csproj",
+        "projectPath": "D:\\test\\Test.csproj",
         "packagesPath": "C:\\Users\\hatrari\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\obj\\",
+        "outputPath": "D:\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
