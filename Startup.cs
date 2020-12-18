@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
-namespace Test
+namespace JWTAuth
 {
   public class Startup
   {

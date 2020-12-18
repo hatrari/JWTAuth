@@ -1,4 +1,4 @@
-namespace Test.Entities
+namespace JWTAuth.Entities
 {
   public class User
   {

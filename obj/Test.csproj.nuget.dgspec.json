@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\Test.csproj": {}
+    "C:\\Users\\hatrari\\Desktop\\jwt-auth\\Test.csproj": {}
   },
   "projects": {
-    "D:\\test\\Test.csproj": {
+    "C:\\Users\\hatrari\\Desktop\\jwt-auth\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\hatrari\\Desktop\\jwt-auth\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\test\\Test.csproj",
+        "projectPath": "C:\\Users\\hatrari\\Desktop\\jwt-auth\\Test.csproj",
         "packagesPath": "C:\\Users\\hatrari\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\obj\\",
+        "outputPath": "C:\\Users\\hatrari\\Desktop\\jwt-auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
